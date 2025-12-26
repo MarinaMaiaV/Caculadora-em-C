@@ -24,28 +24,20 @@ Abaixo está uma captura de tela demonstrando a execução do programa no termin
 
 1. Clone ou baixe este repositório:
    ```bash
-   git clone https://github.com/seu-usuario/calculadora-em-c.git
+https://github.com/MarinaMaiaV/Caculadora-em-C/tree/main
 Acesse a pasta do projeto:
 
-bash
-Copiar código
 cd calculadora-em-c
 Compile o programa:
-
-bash
-Copiar código
 gcc main.c -o calculadora
-▶️ Uso e Exemplos de Comando
+
+## Uso e Exemplos de Comando
 Após a compilação, execute o programa:
-
-bash
-Copiar código
 ./calculadora
-No Windows:
 
-bash
-Copiar código
+No Windows:
 calculadora.exe
+
 Operações disponíveis
 1 — Adição
 
@@ -59,16 +51,14 @@ Operações disponíveis
 
 O programa permite realizar várias operações em sequência até que o usuário escolha sair.
 
-🗂️ Estrutura do Projeto
-text
-Copiar código
-calculadora-em-c/
-│── main.c
-│── README.md
-│── LICENSE
-└── assets/
-    └── demo.png
-Descrição dos arquivos
+## Estrutura do Projeto
+   calculadora-em-c/
+      │── main.c
+      │── README.md
+      │── LICENSE
+      └── assets/
+          └── demo.png
+## Descrição dos arquivos
 main.c: Contém todo o código-fonte da calculadora, incluindo menu, validação de entradas, operações matemáticas e controle do fluxo do programa.
 
 README.md: Documentação do projeto.
@@ -77,6 +67,6 @@ LICENSE: Define os direitos de uso e distribuição do projeto.
 
 assets/: Diretório destinado a imagens e arquivos de mídia utilizados na documentação.
 
-📄 Licença
+## Licença
 Este projeto está licenciado sob a MIT License — veja o arquivo LICENSE para mais detalhes.
 
