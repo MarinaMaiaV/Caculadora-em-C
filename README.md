@@ -5,16 +5,15 @@ O projeto permite ao usuário realizar operações matemáticas básicas por mei
 
 ---
 
-##  Demonstração
+## 📸 Demonstração
 
 Abaixo está uma captura de tela demonstrando a execução do programa no terminal:
+
 ![Demonstração da Calculadora](assets/demo.png.png)
-
-
 
 ---
 
-##  Instalação e Pré-requisitos
+## ⚙️ Instalação e Pré-requisitos
 
 ### Pré-requisitos
 - Um compilador C instalado (exemplo: **GCC**)
@@ -36,8 +35,7 @@ Compile o programa:
 bash
 Copiar código
 gcc main.c -o calculadora
-
-## Uso e Exemplos de Comando
+▶️ Uso e Exemplos de Comando
 Após a compilação, execute o programa:
 
 bash
@@ -61,8 +59,8 @@ Operações disponíveis
 
 O programa permite realizar várias operações em sequência até que o usuário escolha sair.
 
-## Estrutura do Projeto
-css
+🗂️ Estrutura do Projeto
+text
 Copiar código
 calculadora-em-c/
 │── main.c
@@ -79,8 +77,6 @@ LICENSE: Define os direitos de uso e distribuição do projeto.
 
 assets/: Diretório destinado a imagens e arquivos de mídia utilizados na documentação.
 
-## Licença
-
-Este projeto está licenciado sob a MIT License — veja o arquivo LICENSE
- para mais detalhes.
+📄 Licença
+Este projeto está licenciado sob a MIT License — veja o arquivo LICENSE para mais detalhes.
 
