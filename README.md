@@ -24,7 +24,7 @@ Abaixo está uma captura de tela demonstrando a execução do programa no termin
 
 1. Clone ou baixe este repositório:
    ```bash
-https://github.com/MarinaMaiaV/Caculadora-em-C/tree/main
+ git clone https://github.com/MarinaMaiaV/Caculadora-em-C/tree/main
 Acesse a pasta do projeto:
 
 cd calculadora-em-c
