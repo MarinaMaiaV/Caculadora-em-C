@@ -8,7 +8,8 @@ O projeto permite ao usuário realizar operações matemáticas básicas por mei
 ##  Demonstração
 
 Abaixo está uma captura de tela demonstrando a execução do programa no terminal:
-![Demonstração da Calculadora](<img width="423" height="275" alt="image" src="https://github.com/user-attachments/assets/4d6d7a6c-f7c0-47b7-9e31-7babade0fe92" />)
+![Demonstração da Calculadora](assets/demo.png.png)
+
 
 
 ---
