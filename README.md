@@ -5,15 +5,15 @@ O projeto permite ao usuário realizar operações matemáticas básicas por mei
 
 ---
 
-## 📸 Demonstração
+##  Demonstração
 
 Abaixo está uma captura de tela demonstrando a execução do programa no terminal:
-
+![Demonstração da Calculadora](assets/demo.png)
 <img width="423" height="275" alt="image" src="https://github.com/user-attachments/assets/4d6d7a6c-f7c0-47b7-9e31-7babade0fe92" />
 
 ---
 
-## ⚙️ Instalação e Pré-requisitos
+##  Instalação e Pré-requisitos
 
 ### Pré-requisitos
 - Um compilador C instalado (exemplo: **GCC**)
@@ -75,6 +75,8 @@ main.c: Contém todo o código-fonte da calculadora, incluindo menu, validação
 README.md: Documentação do projeto.
 
 LICENSE: Define os direitos de uso e distribuição do projeto.
+
+assets/: Diretório destinado a imagens e arquivos de mídia utilizados na documentação.
 
 ## Licença
 
