@@ -1,11 +1,11 @@
-# 🧮 Calculadora Simples em C
+# Calculadora Simples em C
 
 Uma calculadora simples desenvolvida em linguagem C que funciona inteiramente no terminal.  
 O projeto permite ao usuário realizar operações matemáticas básicas por meio de um menu interativo, sendo um excelente exercício para praticar lógica de programação, estruturas de decisão, laços de repetição e validação de entrada.
 
 ---
 
-## 📸 Demonstração
+##  Demonstração
 
 Exemplo de execução no terminal:
 
@@ -32,7 +32,7 @@ Resultado: 5 + 3 = 8
 <img width="423" height="275" alt="image" src="https://github.com/user-attachments/assets/4d6d7a6c-f7c0-47b7-9e31-7babade0fe92" />
 ---
 
-## ⚙️ Instalação e Pré-requisitos
+##  Instalação e Pré-requisitos
 
 ### Pré-requisitos
 - Um compilador C instalado (exemplo: **GCC**)
@@ -54,7 +54,7 @@ Compile o programa:
 
 gcc main.c -o calculadora
 
-▶️ Uso e Exemplos de Comando
+Uso e Exemplos de Comando
 
 Após a compilação, execute o programa:
 
@@ -79,7 +79,7 @@ Operações disponíveis:
 
 O programa permite realizar várias operações em sequência até que o usuário escolha sair.
 
-🗂️ Estrutura do Projeto
+ Estrutura do Projeto
 Estrutura do Projeto
 calculadora-em-c/
 │── main.c
