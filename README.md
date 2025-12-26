@@ -5,34 +5,15 @@ O projeto permite ao usuário realizar operações matemáticas básicas por mei
 
 ---
 
-##  Demonstração
+## 📸 Demonstração
 
-Exemplo de execução no terminal:
-
-
-===============================
-Calculadora Simples
-
-Selecione uma operação:
-
-Adição
-
-Subtração
-
-Multiplicação
-
-Divisão
-
-Sair
-Opção: 1
-Digite o primeiro número: 5
-Digite o segundo número: 3
-Resultado: 5 + 3 = 8
+Abaixo está uma captura de tela demonstrando a execução do programa no terminal:
 
 <img width="423" height="275" alt="image" src="https://github.com/user-attachments/assets/4d6d7a6c-f7c0-47b7-9e31-7babade0fe92" />
+
 ---
 
-##  Instalação e Pré-requisitos
+## ⚙️ Instalação e Pré-requisitos
 
 ### Pré-requisitos
 - Um compilador C instalado (exemplo: **GCC**)
@@ -40,58 +21,63 @@ Resultado: 5 + 3 = 8
 - Terminal ou Prompt de Comando
 
 ### Instalação
+
 1. Clone ou baixe este repositório:
    ```bash
    git clone https://github.com/seu-usuario/calculadora-em-c.git
-
-
 Acesse a pasta do projeto:
 
+bash
+Copiar código
 cd calculadora-em-c
-
-
 Compile o programa:
 
+bash
+Copiar código
 gcc main.c -o calculadora
 
-Uso e Exemplos de Comando
-
+## Uso e Exemplos de Comando
 Após a compilação, execute o programa:
 
+bash
+Copiar código
 ./calculadora
-
-
 No Windows:
 
+bash
+Copiar código
 calculadora.exe
+Operações disponíveis
+1 — Adição
 
-Operações disponíveis:
+2 — Subtração
 
-1 → Adição
+3 — Multiplicação
 
-2 → Subtração
+4 — Divisão
 
-3 → Multiplicação
-
-4 → Divisão
-
-5 → Sair do programa
+5 — Sair do programa
 
 O programa permite realizar várias operações em sequência até que o usuário escolha sair.
 
- Estrutura do Projeto
-Estrutura do Projeto
+## Estrutura do Projeto
+css
+Copiar código
 calculadora-em-c/
 │── main.c
 │── README.md
 │── LICENSE
-
+└── assets/
+    └── demo.png
 Descrição dos arquivos
-
 main.c: Contém todo o código-fonte da calculadora, incluindo menu, validação de entradas, operações matemáticas e controle do fluxo do programa.
 
-README.md: Documentação do projeto, explicando funcionamento, uso e estrutura.
+README.md: Documentação do projeto.
 
 LICENSE: Define os direitos de uso e distribuição do projeto.
- 
+
+## Licença
+
+Este projeto está licenciado sob a MIT License — veja o arquivo LICENSE
+ para mais detalhes.
 
